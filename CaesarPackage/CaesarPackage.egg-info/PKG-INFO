@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: CaesarPackage
+Version: 0.0.1
+Summary: Package that encrypts data using Caesar Cipher
+Author: Abeer_Omar
+Requires-Dist: setuptools==69.1.1
